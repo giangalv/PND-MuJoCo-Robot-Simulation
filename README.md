@@ -18,7 +18,7 @@ A comprehensive MuJoCo-based physics simulation framework for PND humanoid robot
 * RAM: Minimum 4GB (8GB recommended)
 * Processor: Multi-core processor recommended
 
- ### Required Softwareù
+ ### Required Software
  * Python 3.10+
  * pip3 (Python package manager)
  * MuJoCo physics engine
