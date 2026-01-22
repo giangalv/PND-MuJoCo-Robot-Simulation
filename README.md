@@ -111,7 +111,7 @@ HANDPOSE_SRC = 0  # Hand pose source (0 or 1 for different modes)
 * USE_JOYSTICK - Enable/disable gamepad support
 
 ### Usage
-##Running the Simulation
+## Running the Simulation
 ```bash
 # Navigate to simulation directory
 cd ~/pnd_mujoco_simulation/pnd_mujoco/simulate_python/
