@@ -206,7 +206,6 @@ This project is licensed under the MIT License.
   title={PND MuJoCo Robot Simulation},
   author={Gia Galvez},
   year={2024},
-  url={https://github.com/giangalv/pnd_mujoco_simulation}
 }
 ```
 ## Changelog
